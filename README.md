@@ -1,0 +1,2 @@
+# WebScreenShooter
+ZAP Fuzzer機能の結果ファイルからスクリーンショット撮ってきてくれるツール
